@@ -64,7 +64,7 @@
         "excludes": [
           "modernfix",
           "detailedhp",
-          "itemborders"
+          "item-borders"
         ]
       }
     }
